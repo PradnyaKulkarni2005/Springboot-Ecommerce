@@ -1,4 +1,4 @@
-package com.example.ecommerce;
+package com.example.journal;
 import org.springframework.stereotype.Component;
 import org.springframework.beans.factory.annotation.Autowired;
 @Component
